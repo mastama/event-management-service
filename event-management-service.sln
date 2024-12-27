@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.mastama", "com.mastama\com.mastama.csproj", "{7B732C74-8CF7-4C45-A184-193D188AB50B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B732C74-8CF7-4C45-A184-193D188AB50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B732C74-8CF7-4C45-A184-193D188AB50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B732C74-8CF7-4C45-A184-193D188AB50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B732C74-8CF7-4C45-A184-193D188AB50B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

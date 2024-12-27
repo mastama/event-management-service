@@ -1,0 +1,7 @@
+@com.mastama_HostAddress = http://localhost:5204
+@com = variable value
+
+GET {{com.mastama_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
